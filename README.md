@@ -9,7 +9,7 @@ You can star this repository to keep track of the project if it's helpful for yo
 
 |  Project EN         |   Project CN                                    | Introduction                                                  | Core Code                              |
 |  :----:             |   :----:                                        | :----:                                                        | :----:                                 |
-|  comparecountries   |   数据可视化 | 五常纸面实力历年变化与对比       | [click]()                                                     | [click](./projects/comparecountries)   |
+|  comparecountries   |   五常纸面实力历年变化与对比                    | [click]()                                                     | [click](./projects/comparecountries)   |
 
 
 # Projects in Charles_pikachu
