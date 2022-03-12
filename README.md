@@ -19,7 +19,7 @@ You can star this repository to keep track of the project if it's helpful for yo
 |  Project EN         |   Project CN                                    | Introduction                                                  | Core Code                              |
 |  :----:             |   :----:                                        | :----:                                                        | :----:                                 |
 |  comparecountries   |   五常纸面实力历年变化与对比                    | [click](https://mp.weixin.qq.com/s/6W8A0-R3EYgC2pxBqOGkOA)    | [click](./projects/comparecountries)   |
-|  ufoanalysis        |   外星文明只是空穴来风吗？？？                  | [click]()                                                     | [click](./projects/ufoanalysis)        |
+|  ufoanalysis        |   外星文明只是空穴来风吗？？？                  | [click](https://mp.weixin.qq.com/s/782r_WCqdhv98bE2VUpgBg)    | [click](./projects/ufoanalysis)        |
 
 
 # Projects in Charles_pikachu
