@@ -27,7 +27,6 @@ class UFOAnalysis():
         self.ufo_infos = self.load(os.path.join(self.rootdir, 'source/ufos.pkl'))
     '''运行'''
     def run(self):
-        '''
         # UFO目击数量随时间的变化
         ufo_number_by_year = {}
         for value in self.ufo_infos.values():
@@ -117,7 +116,6 @@ class UFOAnalysis():
                 if word in word_freq: word_freq[word] += 1
                 else: word_freq[word] = 1
         self.drawwordcloud(word_freq, '关于UFO的目击者描述词云')
-        '''
         # UFO目击地点分布可视化
         locations = []
         for value in self.ufo_infos.values():
