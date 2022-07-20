@@ -21,7 +21,7 @@ You can star this repository to keep track of the project if it's helpful for yo
 |  comparecountries         |   五常纸面实力历年变化与对比                          | [click](https://mp.weixin.qq.com/s/6W8A0-R3EYgC2pxBqOGkOA)    | [click](./projects/comparecountries)         |
 |  ufoanalysis              |   外星文明只是空穴来风吗？？？                        | [click](https://mp.weixin.qq.com/s/782r_WCqdhv98bE2VUpgBg)    | [click](./projects/ufoanalysis)              |
 |  bigfootanalysis          |   太离谱了，世界未解之谜上的物种竟然都有数据集了~     | [click](https://mp.weixin.qq.com/s/H4mEjqiTRqjzkEDy4XgHCA)    | [click](./projects/bigfootanalysis)          |
-|  yangshiwechatarticles    |   写个爬虫"探索"一下央视新闻公众号是怎么取标题的~     | [click]()                                                     | [click](./projects/yangshiwechatarticles)    |
+|  yangshiwechatarticles    |   写个爬虫"探索"一下央视新闻公众号是怎么取标题的~     | [click](https://mp.weixin.qq.com/s/3afY-EIvhKMG6ONgjsOffA)    | [click](./projects/yangshiwechatarticles)    |
 
 
 # Projects in Charles_pikachu
